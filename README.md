@@ -4,7 +4,7 @@ Learn about Organoid Intelligence - an emerging field of study in computer scien
 
 https://chatgpt.com/g/g-3kb4nEwKz-organoid-intelligence
 
-Organoid Intelligence: The Organoid Intelligence (OI) chat bot specializes in advanced functionalities within the field of Organoid Intelligence. It integrates expertise from biocomputing, neuroscience, biology, and ethics to provide comprehensive support and information. Here's an overview of its capabilities:
+The Organoid Intelligence (OI) chat bot specializes in advanced functionalities within the field of Organoid Intelligence. It integrates expertise from biocomputing, neuroscience, biology, and ethics to provide comprehensive support and information. Here's an overview of its capabilities:
 
 1. Research and Development:
    - Cultivation of Brain Organoids: The bot facilitates the development and enhancement of methods for cultivating brain organoids, which are lab-grown cell cultures mimicking aspects of the human brain crucial for cognitive functions like learning and memory​​​​.
